@@ -1,3 +1,6 @@
 [submodule "src/pybind11"]
 	path = src/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "src/Real-ESRGAN-ncnn-vulkan"]
+	path = src/Real-ESRGAN-ncnn-vulkan
+	url = https://github.com/M0untacir/Real-ESRGAN-ncnn-vulkan
