@@ -2,6 +2,9 @@ name: Release
 
 on:
   workflow_dispatch:
+  permissions:
+    contents: read
+    id-token: write
 
 env:
   DEVELOPER_DIR: /Applications/Xcode_14.2.app/Contents/Developer
